@@ -10,6 +10,11 @@ So go ahead, clone it, play with it, break it, rebuild it — and if you love it
 
 ---
 
+## Live Website
+https://wassup-web-chat-app.onrender.com/
+
+---
+
 ## 📌 Features
 
 - ⚡ **Real-Time Messaging** — Powered by WebSockets using Socket.io.
@@ -54,6 +59,6 @@ So go ahead, clone it, play with it, break it, rebuild it — and if you love it
     ```
     http://localhost:8000
     ```
-
+---
 # 🙋‍♂️ About Me
 Made with 💙 by Raj — a passionate software developer exploring real-time web apps and open-source collaboration.
